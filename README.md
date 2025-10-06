@@ -1,0 +1,1 @@
+# Parking System (Google Sheets / PostgreSQL hybrid)\n\nReady for Vercel deployment.\n
